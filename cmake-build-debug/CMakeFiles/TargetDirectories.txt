@@ -1,0 +1,3 @@
+/home/darek/dane/Nextcloud/Studia/statystyka/projekt/program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/darek/dane/Nextcloud/Studia/statystyka/projekt/program/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/darek/dane/Nextcloud/Studia/statystyka/projekt/program/cmake-build-debug/CMakeFiles/program.dir
