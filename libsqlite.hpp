@@ -3,7 +3,7 @@
  *  Netlogic Belgium:
  *   Ruben De Smet
  *
- * this file is licensed under the terms stated in the LICENCE file
+ * this file is licensed under GNU GENERAL PUBLIC LICENSE Version 3
  *
  */
 
